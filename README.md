@@ -32,7 +32,6 @@
     <ul>
       <li><strong>DevOps & CI/CD :</strong> Git, GitHub, Docker</li>
       <li><strong>Architecture :</strong> ADR, specs, dossiers d'architecture</li>
-      <li><strong>Réalisations :</strong> suivi de la qualité de l'eau (France 2030), monitoring de radiométrie, Warden</li>
     </ul><br/>
   </td>
 </table>
