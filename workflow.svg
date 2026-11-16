@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Workflow">
+<defs><pattern id="d" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="#f4f1ea"/><rect width="2" height="2" fill="#1a1a1a"/><rect x="2" y="2" width="2" height="2" fill="#1a1a1a"/></pattern></defs>
+<rect x="1" y="1" width="62" height="62" fill="#f4f1ea" stroke="#1a1a1a" stroke-width="2"/>
+<g fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="miter">
+
+<line x1="20" y1="32" x2="44" y2="32"/>
+<rect x="9" y="26" width="12" height="12" fill="#f4f1ea"/>
+<rect x="26" y="26" width="12" height="12" fill="url(#d)"/>
+<rect x="43" y="26" width="12" height="12" fill="#e8590c" stroke="#1a1a1a"/>
+<path d="M15 26 V16 H49 V26"/><path d="M45 20 L49 25 L53 20" />
+</g></svg>
